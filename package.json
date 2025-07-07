@@ -1,0 +1,8 @@
+{
+  "name": "azure-devops-pipeline",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Building the Node.js app...'"
+  },
+  "dependencies": {}
+}
